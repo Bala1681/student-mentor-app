@@ -1,15 +1,11 @@
 POST METHOD
-Write API to create Mentor  -  
-https://student-mentor-balavi.herokuapp.com/mentor
+Write API to create Mentor  -  https://student-mentor-balavi.herokuapp.com/mentor
 POST METHOD
-Write API to create Student  - 
- https://student-mentor-balavi.herokuapp.com/student
+Write API to create Student  - https://student-mentor-balavi.herokuapp.com/student
 GET METHOD
-Write API to read/get all Mentors  -  
-https://student-mentor-balavi.herokuapp.com/mentor
+Write API to read/get all Mentors  -  https://student-mentor-balavi.herokuapp.com/mentor
 GET METHOD
-Write API to read/get all Students  - 
- https://student-mentor-balavi.herokuapp.com/student
+Write API to read/get all Students  -  https://student-mentor-balavi.herokuapp.com/student
  
  
     POST METHOD
